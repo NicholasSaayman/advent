@@ -1,7 +1,5 @@
-package com.saayman.advent2018day1;
+package com.saayman.advent2018.day1;
 
-import java.io.InvalidClassException;
-import java.io.InvalidObjectException;
 import java.util.List;
 
 public class FrequencyChange {
